@@ -1,5 +1,5 @@
 # cosmicsarthak-learning-skills
 
 
-## CyberSecurity
+## Cyber Security
 - picoCTF - CMU Cybersecurity Competition
