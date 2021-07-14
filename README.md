@@ -17,3 +17,4 @@ FREE HOSTING:
 - Fast.io
 - Netlify
 - Render
+- Gatsby Cloud
