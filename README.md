@@ -10,3 +10,10 @@
 - StackBit
 - NEtlify
 - Herokuapp
+
+
+FREE HOSTING:
+- Vercel
+- Fast.io
+- Netlify
+- Render
